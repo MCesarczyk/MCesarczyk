@@ -26,11 +26,16 @@ If you want to check results of this work, feel free to check my public reposito
 - React 17
 - Styled components
 - Ant Design UI library
+- Material UI library & components
 - React/custom Hooks
 - React-Redux
 - Redux-Saga
 - React Router
-- Node.js/NPM/Yarn
+- Ruby on Rails framework
+- SQL basics
+- Restful API
+- Fullstack apps building
+- Yarn/npm/nvm/rvm/bundler
 - Git/gh-pages
 - GitHub flow, collaborating
 - Markdown
@@ -43,10 +48,10 @@ If you want to check results of this work, feel free to check my public reposito
 
 
 ## 👨‍💻 I’m currently working on ...
-Contribute in commercial project as React developer and making inprovements in my public repositories.
+Contribute in commercial Ruby on Rails based project as React developer and making inprovements in my public repositories.
 
 ## 📫 How to reach me: ...
-If you'd like to talk, feel free to write on: [michal.cesarczyk@gmail.com](mailto:michal.cesarczyk@gmail.com)
+If you'd like to talk or want to hire me, feel free to write on: [michal.cesarczyk@gmail.com](mailto:michal.cesarczyk@gmail.com)
 
 # ![react badge](https://img.shields.io/badge/-ReactJs-blue?logo=react&logoColor=white&style=plastic) ![react-redux badge](https://img.shields.io/badge/-ReactRedux-darkGreen?logo=redux&logoColor=white&style=plastic) ![redux-saga badge](https://img.shields.io/badge/-ReduxSaga-B7178C?logo=reduxSaga&logoColor=white&style=plastic) ![react-router badge](https://img.shields.io/badge/-ReactRouter-ffda00?logo=reactRouter&logoColor=white&style=plastic) ![node.js badge](https://img.shields.io/badge/-NodeJs-0088CC?logo=nodeDotJs&logoColor=white&style=plastic) ![npm badge](https://img.shields.io/badge/-npm-ffffff?logo=NPM&logoColor=white&style=plastic) ![yarn badge](https://img.shields.io/badge/-yarn-ff5722?logo=yarn&logoColor=white&style=plastic) ![github badge](https://img.shields.io/badge/-GitHub-black?logo=gitHub&logoColor=white&style=plastic)
 <!--
