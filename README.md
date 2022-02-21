@@ -1,57 +1,26 @@
-### Hi there 👋
+## Welcome to my homepage! 👋🎈🎉
 
-My name is Michał and I'm React-fascinated frontend developer.  
-So far, my whole professional life concerns about CNC programming/machining and industry labor in general, however, as far as I remember, I was interested in IT technologies, free and open-source software, Linux and so on.  
-In last years, I've started to think seriously about changing my profession toward frontend development, completed my education by finishing a course in [YouCode](https://www.youcode.pl) programming school owned by Chris Dąbrowski, and exercise in everyday coding.  
-If you want to check results of this work, feel free to check my public repositories 🔎
+My name is Michał and I'm React-fascinated frontend developer.
 
-## 🚀 My skills includes: 
-- Semantic HTML
-- Responsive web design:
-    - responsiveness
-    - media queries
-- CSS/BEM convention
-- CSS-Flexbox
-- CSS-Grid
-- JS/ES6+ features:
-    - template literals
-    - destructuring assignment
-    - arrow function expressions
-    - let and const
-    - spread and rest syntaxes
-- Error handling
-- Immutability
-- Promises, Async/Await
-- AJAX/API/LocalStorage
-- React 17
-- Styled components
-- Ant Design UI library
-- Material UI library & components
-- React/custom Hooks
-- React-Redux
-- Redux-Saga
-- React Router
-- Ruby on Rails framework
-- SQL basics
-- Restful API
-- Fullstack apps building
-- Yarn/npm/nvm/rvm/bundler
-- Git/gh-pages
-- GitHub flow, collaborating
-- Markdown
-- Trello: tasks management
-- Figma: reading UI layout
-- Scrum/Agile metodology
-- Expert in CNC programming
-- CNC machines setting/operation
-- General technical knowledge
+Years ago, when phones hadn't own OS (in today's meaning), PC's were running SDRAM and you could install RedHat or Debian from floppy's I've started my first job as CNC machinist 👓🛠⚙
+
+My first contacts with programming wasn't very happy, Turbo Pascal and Borland Deplhi didm't fits me and academic approach didn't make it any easier 🤷‍♂️. During my whole professional life I regretted that there wasn't enough programming in CNC programming ... 🤦‍♂️
+
+but it constant rush I hadn't time to change it.
+So, when in last years, I've found frontend development course in [YouCode](https://www.youcode.pl) programming school, I thought that this is the game changer for me ⚽🥅
+
+From that moment I continously learn frontend development and work as an **afterHoursFreelancer**, at the same time looking for **full-time-job** as junior frontend developer 💻🖥
+
+If you want to check results of my work, feel free to check my public repositories 🔎
+
+So, if you're looking for somebody, who will get the frontend job done or team player for you project, feel free to talk to me 🤝📲📧.
+
+I also ancourage you to check my homepage, when you can find more informations about my work and technologies I use:
+
+# [home.cesarczyk.dev](https://home.cesarczyk.dev)
 
 
-## 👨‍💻 I’m currently working on ...
-Contribute in commercial Ruby on Rails based project as React developer and making inprovements in my public repositories.
-
-## 📫 How to reach me: ...
-If you'd like to talk or want to hire me, feel free to write on: [michal.cesarczyk@gmail.com](mailto:michal.cesarczyk@gmail.com)
+![demo](demo.gif)
 
 # ![react badge](https://img.shields.io/badge/-ReactJs-blue?logo=react&logoColor=white&style=plastic) ![react-redux badge](https://img.shields.io/badge/-ReactRedux-darkGreen?logo=redux&logoColor=white&style=plastic) ![redux-saga badge](https://img.shields.io/badge/-ReduxSaga-B7178C?logo=reduxSaga&logoColor=white&style=plastic) ![react-router badge](https://img.shields.io/badge/-ReactRouter-ffda00?logo=reactRouter&logoColor=white&style=plastic) ![node.js badge](https://img.shields.io/badge/-NodeJs-0088CC?logo=nodeDotJs&logoColor=white&style=plastic) ![npm badge](https://img.shields.io/badge/-npm-ffffff?logo=NPM&logoColor=white&style=plastic) ![yarn badge](https://img.shields.io/badge/-yarn-ff5722?logo=yarn&logoColor=white&style=plastic) ![github badge](https://img.shields.io/badge/-GitHub-black?logo=gitHub&logoColor=white&style=plastic)
 <!--
