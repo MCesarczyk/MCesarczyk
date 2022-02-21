@@ -7,7 +7,7 @@ Years ago, when phones hadn't own OS (in today's meaning), PC's were running SDR
 My first contacts with programming wasn't very happy, Turbo Pascal and Borland Deplhi didn't fits me well and academic approach didn't make it any easier 🤷‍♂️. During my whole professional life I regretted that there wasn't enough programming in CNC programming ... 🤦‍♂️😂, but it constant rush I hadn't time to change it.
 So, when in last years, I've found frontend development course in [YouCode](https://www.youcode.pl) programming school, I thought that this is the game changer for me ⚽🥅
 
-From that moment I continously learn frontend development and work as an ``<AfterHoursFreelancer/>``,  at the same time looking for ``{ fullTimeJob }`` as a junior frontend developer 💻🖥
+From that moment I continously learn frontend development and work as an ``<AfterHoursFreelancer/>``,</br> at the same time looking for ``{ fullTimeJob }`` as a junior frontend developer 💻🖥
 
 If you want to check results of my work, feel free to check my public repositories 🔎
 
