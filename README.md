@@ -1,4 +1,4 @@
-## Welcome to my homepage! 👋🎈🎉
+## Welcome in my repository! 👋🎈🎉
 
 My name is Michał and I'm React-fascinated frontend developer.
 
