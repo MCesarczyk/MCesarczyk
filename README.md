@@ -13,6 +13,11 @@ I also ancourage you to check my homepage, when you can find more informations a
 
 # ▶▶▶ [home.cesarczyk.dev](https://home.cesarczyk.dev)
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MCesarczyk&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MCesarczyk&langs_count=5&theme=tokyonight)]()
+
+
 # ![react badge](https://img.shields.io/badge/-ReactJs-blue?logo=react&logoColor=white&style=plastic) ![react-redux badge](https://img.shields.io/badge/-ReactRedux-darkGreen?logo=redux&logoColor=white&style=plastic) ![redux-saga badge](https://img.shields.io/badge/-ReduxSaga-B7178C?logo=reduxSaga&logoColor=white&style=plastic) ![react-router badge](https://img.shields.io/badge/-ReactRouter-ffda00?logo=reactRouter&logoColor=white&style=plastic) ![node.js badge](https://img.shields.io/badge/-NodeJs-0088CC?logo=nodeDotJs&logoColor=white&style=plastic) ![npm badge](https://img.shields.io/badge/-npm-ffffff?logo=NPM&logoColor=white&style=plastic) ![yarn badge](https://img.shields.io/badge/-yarn-ff5722?logo=yarn&logoColor=white&style=plastic) ![github badge](https://img.shields.io/badge/-GitHub-black?logo=gitHub&logoColor=white&style=plastic)
 <!--
 **MCesarczyk/MCesarczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +32,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCesarczyk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=MCesarczyk
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=MCesarczyk
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+
