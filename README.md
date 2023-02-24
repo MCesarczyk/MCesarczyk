@@ -4,9 +4,7 @@ My name is Michał and I'm Typescript-React-based frontend developer.
 
 Currently I'm working a lot with geospatial functionalities, maps, remote sensing data. 🌍🪐🚀🗺
 
-In free time I exercise with Node.js, PostgreSQL and also learn Python. 🐍
-
-So, if you're looking for somebody, who will get the frontend job done or team player for you project, feel free to talk to me. I'm open to freelance part-time job propositions. 🤝📲📧.
+In free time I exercise with Node.js, Prisma, Nest, NX, PostgreSQL and learn about software architecture.
 
 If you want to check results of my work, feel free to check my public repositories 🔎
 I also ancourage you to check my homepage, when you can find more informations about my work and technologies I use:
