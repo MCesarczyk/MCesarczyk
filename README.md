@@ -9,7 +9,7 @@ In free time I exercise with Node.js, Prisma, Nest, NX, PostgreSQL and learn abo
 If you want to check results of my work, feel free to check my public repositories 🔎
 I also ancourage you to check my homepage, when you can find more informations about my work and technologies I use:
 
-# ▶▶▶ [home.cesarczyk.dev](https://home.cesarczyk.dev)
+# ▶▶▶ [cesarczyk.dev](https://cesarczyk.dev)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MCesarczyk&count_private=true&theme=tokyonight&showicons=true)]()
 
