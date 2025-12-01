@@ -11,9 +11,17 @@ I also ancourage you to check my homepage, when you can find more informations a
 
 # ▶▶▶ [cesarczyk.dev](https://cesarczyk.dev)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MCesarczyk&count_private=true&theme=tokyonight&showicons=true)]()
+<!-- Statistics: General statistics -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/MCesarczyk/github-stats/main/output/stats_general.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/MCesarczyk/github-stats/main/output/stats_general.svg">
+</picture>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MCesarczyk&langs_count=5&theme=tokyonight)]()
+<!-- Statistics: Programming languages -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/MCesarczyk/github-stats/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/MCesarczyk/github-stats/main/output/stats_langs.svg">
+</picture>
 
 
 # ![react badge](https://img.shields.io/badge/-ReactJs-blue?logo=react&logoColor=white&style=plastic) ![react-redux badge](https://img.shields.io/badge/-ReactRedux-darkGreen?logo=redux&logoColor=white&style=plastic) ![redux-saga badge](https://img.shields.io/badge/-ReduxSaga-B7178C?logo=reduxSaga&logoColor=white&style=plastic) ![react-router badge](https://img.shields.io/badge/-ReactRouter-ffda00?logo=reactRouter&logoColor=white&style=plastic) ![node.js badge](https://img.shields.io/badge/-NodeJs-0088CC?logo=nodeDotJs&logoColor=white&style=plastic) ![npm badge](https://img.shields.io/badge/-npm-ffffff?logo=NPM&logoColor=white&style=plastic) ![yarn badge](https://img.shields.io/badge/-yarn-ff5722?logo=yarn&logoColor=white&style=plastic) ![github badge](https://img.shields.io/badge/-GitHub-black?logo=gitHub&logoColor=white&style=plastic)
